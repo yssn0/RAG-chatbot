@@ -1,3 +1,8 @@
+### 🏗️ Architecture Technique
+
+The application is built on a decoupled architecture separating the client interface from the inference logic.
+
+```mermaid
 flowchart LR
     %% Styles
     classDef user fill:#f9f,stroke:#333,stroke-width:2px;
