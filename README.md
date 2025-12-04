@@ -3,7 +3,7 @@
 The application is built on a decoupled architecture separating the client interface from the inference logic.
 
 <p align="center">
-  <img src="assets/architecture_visual.png" alt="RAG Architecture Flow" width="100%">
+  <img src="assets/architecture_visual.png" alt="Architecture Diagram" width="100%">
 </p>
 
 ### 🛠️ Tech Stack & Flow
